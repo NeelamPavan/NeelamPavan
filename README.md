@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN, JDBC, SQL**
 
-- 📫 Connect with me **neelampavan15@gmail.com**
+- 📫 Contact me **neelampavan15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
